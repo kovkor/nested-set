@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Kovkor\\NestedSet\\" : "Kovkor/NestedSet"
+			"Rundiz\\NestedSet\\" : "Rundiz/NestedSet"
 		}
 	}
 }
