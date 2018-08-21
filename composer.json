@@ -1,5 +1,5 @@
 {
-	"name": "rundiz/nested-set",
+	"name": "kovkor/nested-set",
 	"type": "library",
 	"description": "class library for CRUD the nested set data such as category tree.",
 	"keywords": ["category", "categories", "sub category", "sub categories", "category tree", "nested set", "nested tree", "nested model", "hierarchy", "tree model"],
@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Rundiz\\NestedSet\\" : "Rundiz/NestedSet"
+			"Kovkor\\NestedSet\\" : "Kovkor/NestedSet"
 		}
 	}
 }
